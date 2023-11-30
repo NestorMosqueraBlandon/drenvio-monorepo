@@ -1,7 +1,1 @@
-# Monorepo Template
-
-
-## NextJs
-
-- opengraph-image
-- twitter-image
+# Drenvio Monorepo
