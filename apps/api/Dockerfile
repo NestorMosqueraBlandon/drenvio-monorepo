@@ -64,4 +64,4 @@ COPY --from=installer /app .
 ENV PORT=8000
 ENV HOST=0.0.0.0
 
-CMD node apps/api/build/server/index.js
+CMD node apps/api/build/src/server/index.js
