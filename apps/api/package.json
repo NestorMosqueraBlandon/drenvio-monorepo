@@ -1,7 +1,7 @@
 {
   "name": "api",
   "scripts": {
-    "dev": "tsx --import src/server/index.ts",
+    "dev": "tsx watch src/server/index.ts",
     "build": "npx tsc",
     "clean": "rm -rf ./build",
     "release": "release-it --ci"
